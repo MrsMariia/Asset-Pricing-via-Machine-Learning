@@ -1,4 +1,4 @@
-# 📈 ML Asset Pricing — S&P 500 (2000–2026)
+# 📈 ML Asset Pricing — S&P 500 (2000-2026)
 
 My version of **Gu, Kelly & Xiu (2020)** — *"Empirical Asset Pricing via Machine Learning"* — applied to S&P 500 stocks over a 26-year horizon. Covers the complete pipeline from data collection to portfolio backtesting.
 
